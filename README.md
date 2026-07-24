@@ -1,142 +1,142 @@
-<h1 align="center">Hi 👋, I'm Anvarjon Olimjonov</h1>
-<h3 align="center">Backend Developer | Linux Enthusiast | System Architect | Open Source Contributor</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+# 👋 Hi, I'm Anvarjon Olimjonov
+
+### Backend Developer from Uzbekistan 🇺🇿
+
+<p>
+I enjoy building backend systems, learning Linux, and creating useful software.
 </p>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&width=700&lines=Backend+Developer;Laravel+Developer;Node.js+Developer;Linux+Learner;Always+Learning+New+Things"/>
+
+</div>
+
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
 - 💻 Backend Developer
-- 🐧 Linux & System Architecture Enthusiast
-- 🌐 Learning DevOps, Docker, Kubernetes
-- 📡 Networking & CCNA Student
-- 🔐 Interested in Cyber Security & Pentesting
-- 🚀 Building scalable Web Applications
-- ❤️ Open Source Lover
+- 🌱 Currently learning **Laravel** and **System Architecture**
+- 🐧 Linux enthusiast
+- ⚡ Interested in Backend Development
+- 📚 Building personal projects to improve my skills
+- 🚀 Always learning something new
 
 ---
 
-## 🚀 Currently Learning
-
-- Laravel 12
-- Node.js
-- Express.js
-- React
-- PostgreSQL
-- Docker
-- Linux Internals
-- Kubernetes
-- System Design
-- Clean Architecture
-- Design Patterns
-
----
-
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,js,ts,python,cpp,bash"/>
+<img src="https://skillicons.dev/icons?i=php,js,python,html,css"/>
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,django"/>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express"/>
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind"/>
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb"/>
-</p>
-
-### DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,nginx,linux,ubuntu,git,github"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
-</p>
-
----
-
-## 🎯 Goals
-
-- ✅ Become Senior Backend Engineer
-- ✅ Master Linux Internals
-- ✅ Learn Kubernetes
-- ✅ Become System Architect
-- ✅ Build Large Scale SaaS Projects
-- ✅ Contribute to Open Source
-
----
-
-## 📫 Connect with Me
+### Operating System
 
 <p>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🎯 Current Goals
+
+- Learn Laravel deeply
+- Improve Backend Development skills
+- Master Linux
+- Build real-world projects
+- Contribute to Open Source
+
+---
+
+# 📌 Featured Projects
+
+⭐ School Management System
+
+⭐ Telegram Book Bot
+
+⭐ Telegram Movie Bot
+
+⭐ Personal Portfolio
+
+---
+
+# 📫 Contact
+
+<p>
+
 <a href="https://github.com/YOUR_USERNAME">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://t.me/YOUR_TELEGRAM">
+<a href="https://t.me/YOUR_USERNAME">
 <img src="https://skillicons.dev/icons?i=telegram"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
 </p>
 
 ---
 
-# ⚡ Quote
+<div align="center">
 
-> "First, solve the problem. Then, write the code."
+### ⭐ Thanks for visiting my profile!
+
+</div>
