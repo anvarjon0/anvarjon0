@@ -1,184 +1,271 @@
 <div align="center">
 
-<img src="YOUR_BANNER_IMAGE_LINK" width="100%">
+<img src="YOUR_BANNER_LINK" width="100%" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=900&lines=Initializing+System...;Access+Granted...;Welcome+to+Anvarjon's+GitHub;Backend+Developer;Laravel+%7C+Node.js+%7C+Linux" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=900&lines=Booting+Infrastructure...;Loading+Linux+Kernel...;Initializing+Network+Services...;Welcome+Anvarjon+Olimjonov;Network+Engineer+%7C+Linux+SysAdmin;Backend+Developer" />
 
 </div>
 
 ---
 
-```console
-┌──(anvar㉿github)-[~/profile]
-└─$ whoami
+```bash
+┌────────────────────────────────────────────────────────────┐
+│                 SYSTEM INITIALIZATION                      │
+└────────────────────────────────────────────────────────────┘
 
-Anvarjon Olimjonov
+BIOS.........................OK
+Memory Test..................OK
+Linux Kernel.................Loaded
+systemd......................Running
+Network......................Online
+SSH..........................Enabled
+Firewall.....................Active
 
-Backend Developer
-Laravel Developer
-Linux Enthusiast
-
-Status        : ONLINE
-Location      : Uzbekistan
-Focus         : Backend Development
-Learning      : Laravel • Linux • System Architecture
+Access Granted...
 ```
 
 ---
 
-# > systemctl status developer
+# 👨‍💻 whoami
 
 ```yaml
-Name:        Anvarjon Olimjonov
-Role:        Backend Developer
+Name: Anvarjon Olimjonov
 
-Languages:
-  - PHP
-  - JavaScript
-  - Python
+Role:
+  - Network Engineer
+  - Linux System Administrator
+  - Backend Developer
 
-Backend:
-  - Laravel
-  - Node.js
-  - Express.js
+Location:
+  - Uzbekistan
 
-Frontend:
-  - HTML
-  - CSS
-  - Tailwind CSS
-  - Bootstrap
-  - React (Learning)
+Current Focus:
+  - Linux
+  - Networking
+  - Server Administration
+  - Laravel Backend
+  - System Architecture
 
-Database:
-  - PostgreSQL
-  - MySQL
-  - SQLite
-
-Tools:
-  - Git
-  - GitHub
-  - VS Code
-  - Postman
-
-Operating System:
-  - Ubuntu Linux
+Status:
+  - Always Learning
 ```
 
 ---
 
-# > ls ./projects
+# 🌐 Network Diagram
 
 ```text
-📂 School Management System
-📂 Telegram Book Bot
-📂 Telegram Movie Bot
-📂 Personal Portfolio
+                  INTERNET
+                      │
+               ┌─────────────┐
+               │  Firewall   │
+               └──────┬──────┘
+                      │
+               ┌─────────────┐
+               │ Cisco Router│
+               └──────┬──────┘
+                      │
+          ┌───────────┴───────────┐
+          │                       │
+     Managed Switch          Ubuntu Server
+          │                       │
+     Client Devices        Laravel + PostgreSQL
 ```
 
 ---
 
-# > cat goals.txt
+# 🛠 Technologies
 
-```text
-[✓] Become Professional Backend Developer
-
-[✓] Build High Quality Projects
-
-[✓] Master Laravel
-
-[✓] Master Linux
-
-[ ] Contribute to Open Source
-
-[ ] Learn Advanced System Design
-```
-
----
-
-# > sudo show --skills
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,js,python,react,tailwind,bootstrap,postgres,mysql,sqlite,linux,ubuntu,git,github,vscode,postman" />
-
-</div>
-
----
-
-# > github --stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-
-</div>
-
----
-
-# > contribution --graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
-
-</div>
-
----
-
-# > streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=chartreuse-dark&hide_border=true"/>
-
-</div>
-
----
-
-# > trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-# > connect
+## 🌐 Networking
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,docker,nginx,git"/>
 
-<a href="https://t.me/YOUR_TELEGRAM">
-<img src="https://skillicons.dev/icons?i=telegram"/>
-</a>
+</p>
+
+### Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express"/>
+
+</p>
+
+### Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
+
+</p>
+
+### Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,react,vscode,postman"/>
 
 </p>
 
 ---
 
+# 📊 Live System Status
+
+```yaml
+Hostname: github
+
+Operating System:
+Ubuntu Linux
+
+Shell:
+Bash
+
+Editor:
+VS Code
+
+Database:
+PostgreSQL
+
+Web Server:
+Nginx
+
+Backend:
+Laravel
+
+Status:
+ONLINE
+```
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=chartreuse-dark&show_icons=true&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=chartreuse-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&row=1&column=7&no-frame=true"/>
+
+</p>
+
+---
+
+# 🎯 Current Learning
+
+```text
+[███████████████░░░░] Linux Administration
+
+[█████████████░░░░░] Cisco Networking
+
+[████████████░░░░░░] Laravel
+
+[██████████░░░░░░░░] Docker
+```
+
+---
+
+# 📂 Featured Projects
+
+```text
+📦 School Management System
+
+📚 Telegram Book Library
+
+🎬 Telegram Movie Bot
+
+🖥 Linux Server Lab
+```
+
+---
+
+# 📡 Certifications Roadmap
+
+```text
+☐ CCNA
+
+☐ RHCSA
+
+☐ RHCE
+
+☐ Docker
+
+☐ Kubernetes
+```
+
+---
+
+# ⚡ Favorite Commands
+
 ```bash
-while(true)
+sudo systemctl status
+
+ip addr
+
+ip route
+
+ss -tulnp
+
+journalctl -xe
+
+docker ps
+
+git status
+
+php artisan serve
+```
+
+---
+
+# 🖥 Motto
+
+```cpp
+while (alive)
 {
     Learn();
     Build();
     Improve();
-    Repeat();
 }
 ```
 
+---
+
 <div align="center">
 
-### ⚡ Thanks for visiting my profile.
+## Thanks for visiting my profile.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00ff00&section=footer"/>
 
 </div>
